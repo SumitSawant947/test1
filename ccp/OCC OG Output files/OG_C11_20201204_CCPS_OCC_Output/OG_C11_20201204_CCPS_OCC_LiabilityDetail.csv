@@ -1,0 +1,17 @@
+Business Date,CCP,Member,Account ID,Account Type,Product Type,Market,Currency,FX Rate,Product Description,Liability Type,Liability
+2020-12-04,OCC,00289,00289 F,House,ETD,Cleared,USD,1,Cleared,BaseInitialMargin,-20872340.00
+2020-12-04,OCC,00289,00289 F,House,ETD,Cleared,USD,1,Cleared,AdditionalInitialMargin,-10422922.00
+2020-12-04,OCC,00355,00355 C,Client,ETD,Cleared,USD,1,Cleared,OptionValue,-3055435808.00
+2020-12-04,OCC,00355,00355 C,Client,ETD,Cleared,USD,1,Cleared,BaseInitialMargin,-926106689.00
+2020-12-04,OCC,00355,00355 C,Client,ETD,Cleared,USD,1,Cleared,AdditionalInitialMargin,-177214105.00
+2020-12-04,OCC,00355,00355 F,House,ETD,Cleared,USD,1,Cleared,OptionValue,5413287.00
+2020-12-04,OCC,00355,00355 F,House,ETD,Cleared,USD,1,Cleared,BaseInitialMargin,-98301592.00
+2020-12-04,OCC,00355,00355 F,House,ETD,Cleared,USD,1,Cleared,AdditionalInitialMargin,505535.00
+2020-12-04,OCC,00289,00289 F,House,ETD,Current,USD,1,Current,BaseInitialMargin,-20872340.00
+2020-12-04,OCC,00289,00289 F,House,ETD,Current,USD,1,Current,AdditionalInitialMargin,-10422922.00
+2020-12-04,OCC,00355,00355 C,Client,ETD,Current,USD,1,Current,OptionValue,646358765.00
+2020-12-04,OCC,00355,00355 C,Client,ETD,Current,USD,1,Current,BaseInitialMargin,-1045402121.00
+2020-12-04,OCC,00355,00355 C,Client,ETD,Current,USD,1,Current,AdditionalInitialMargin,-201683208.00
+2020-12-04,OCC,00355,00355 F,House,ETD,Current,USD,1,Current,OptionValue,116432425.00
+2020-12-04,OCC,00355,00355 F,House,ETD,Current,USD,1,Current,BaseInitialMargin,-94243654.00
+2020-12-04,OCC,00355,00355 F,House,ETD,Current,USD,1,Current,AdditionalInitialMargin,4007905.00

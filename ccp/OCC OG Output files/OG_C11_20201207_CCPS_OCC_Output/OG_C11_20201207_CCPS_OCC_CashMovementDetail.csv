@@ -1,0 +1,5 @@
+Business Date,CCP,Member,Account ID,Account Type,Product Type,Market,Currency,FX Rate,Product Description,Cash Movement Type,Cash Movement
+2020-12-07,OCC,00289,00289 C,Client,ETD,Cleared,USD,1,,RealisedVariationMargin,-1054915.00
+2020-12-07,OCC,00289,00289 F,House,ETD,Cleared,USD,1,,RealisedVariationMargin,121145.00
+2020-12-07,OCC,00355,00355 C,Client,ETD,Cleared,USD,1,,RealisedVariationMargin,27832871.83
+2020-12-07,OCC,00355,00355 F,House,ETD,Cleared,USD,1,,RealisedVariationMargin,-44819467.19
